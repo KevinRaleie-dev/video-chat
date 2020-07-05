@@ -1,5 +1,5 @@
 # video-chat
-Video chat stream with Express.js, Socket.io and Typescript
+Video chat stream with Express, Socket.io and Typescript
 
 if you have node/npm installed run:
   - `npm start` to start the dev server
